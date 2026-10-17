@@ -15,7 +15,7 @@ Coaching institutes receive enquiries about courses, fees, batches, and callback
 - **HTTP POST Webhooks** — Communication between Vapi and n8n
 
 ## System Architecture
-
+![n8n workflow overview](Screenshot%20%28414%29.png)
 ```text
 Student / Parent
        |
@@ -99,4 +99,3 @@ This repository is intended to document the project. It does not contain API cre
 **Project Status:** Working prototype; live end-to-end validation and additional features are ongoing.
 
 **Author:** Sarthak
-![n8n workflow overview](Screenshot%20%28414%29.png)
