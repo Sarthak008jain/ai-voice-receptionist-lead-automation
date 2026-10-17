@@ -99,3 +99,4 @@ This repository is intended to document the project. It does not contain API cre
 **Project Status:** Working prototype; live end-to-end validation and additional features are ongoing.
 
 **Author:** Sarthak
+![n8n workflow overview](Screenshot%20%28414%29.png)
