@@ -37,7 +37,7 @@ Edit Fields / Data Mapping
        v
 Google Sheets — Lead Record
 ```
-
+![Google Sheets lead management output](Screenshot%20%28424%29.png)
 ## Features
 
 - AI receptionist configured for coaching institute enquiries.
