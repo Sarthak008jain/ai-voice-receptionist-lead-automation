@@ -99,3 +99,15 @@ This repository is intended to document the project. It does not contain API cre
 **Project Status:** Working prototype; live end-to-end validation and additional features are ongoing.
 
 **Author:** Sarthak
+## 🎥 Project Demo
+
+Watch the working demo of the AI Lead Management System:
+
+[**Watch Demo Video on YouTube**](https://youtu.be/yBnLL0bgIQU)
+
+### Workflow
+- AI-powered student lead processing
+- Workflow automation using n8n
+- Lead storage in Google Sheets
+- Priority, lead status, and enquiry summary tracking
+
